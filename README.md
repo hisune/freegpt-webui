@@ -1,12 +1,12 @@
 # FreeGPT WebUI 
 ## GPT 3.5/4
 
-❌ <strong>NOT REQUIRE ANY API KEY</strong> 🔑
+❌🔑 <strong>NOT REQUIRE ANY API KEY</strong> 
 
-This project showcases an unlocked version of ChatGPT with WebUI. <br>
-Experience the power of ChatGPT with a user-friendly interface, completely free. <br> <br>
+This project features a WebUI utilizing the [G4F API](https://github.com/xtekky/gpt4free). <br>
+Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
-🚧 Known bugs:
+## 🚧 Known bugs:
 - API Provider redirecting GPT-4 model to GPT-3.5;
 - Auto Proxy is not working.
 
@@ -49,13 +49,13 @@ To get started with this project, you'll need to clone the repository and have [
 Run the following command to clone the repository:  
 
 ```
-git clone https://github.com/ramonvc/gptfree-jailbreak-webui.git
+git clone https://github.com/ramonvc/freegpt-webui.git
 ```
 
 ### Install Dependencies :wrench: 
 Navigate to the project directory:
 ```
-cd gptfree-jailbreak-webui
+cd freegpt-webui
 ```
 
 Install the dependencies:
