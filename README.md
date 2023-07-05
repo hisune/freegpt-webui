@@ -7,7 +7,6 @@ This project features a WebUI utilizing the [G4F API](https://github.com/xtekky/
 Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
 ## 🚧 Known bugs:
-- API Provider redirecting GPT-4 model to GPT-3.5;
 - Auto Proxy is not working.
 
 _Coding to solve as quickly as possible_
@@ -88,7 +87,7 @@ To enable it, just go to the `config.json` file and change the value of the "use
 ```
 "use_auto_proxy": true
 ```
-![use-auto-proxy-gif](https://github.com/ramonvc/gptfree-jailbreak-webui/assets/13617054/f83c6217-411c-404c-9f4c-8ae700a486d1)
+![use-auto-proxy-gif](https://github.com/ramonvc/gptfree-webui/assets/13617054/f83c6217-411c-404c-9f4c-8ae700a486d1)
 
 
 

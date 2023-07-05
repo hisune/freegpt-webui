@@ -1,5 +1,31 @@
 from . import Provider
 from .Providers import (
+    Aichat,
+    Bard,
+    Better,
+    Bing,
+    ChatgptAi,
+    ChatgptLogin,
+    ChatgptLogin,
+    DeepAi,
+    Easychat,
+    Ezcht,
+    Fakeopen,
     Forefront,
-    Lockchat
+    GetGpt,
+    Gravityengine,
+    H2o,
+    hteyun,
+    Lsdev,
+    Liaobots,
+    Lockchat,
+    Mishalsgpt,
+    Phind,
+    Theb,
+    Vercel,
+    Weuseing,
+    Yqcloud,
+    You,
 )
+
+Palm = Bard
